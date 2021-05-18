@@ -1,0 +1,32 @@
+body {
+  background-color: #e4efe7;
+  font-family: georgia;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 0.1em 1em;
+}
+
+hr{
+  border: 2px;
+  color: #cc9b6d;
+  border-style: solid none none;
+}
+
+.heading {
+  font-family: sans-serif;
+}
+
+.inTable {
+  padding: 0px;
+}
+
+.profile {
+  width: 500px;
+  padding: 0 2em;
+  background-color: #f1ca89;
+}
